@@ -1,111 +1,58 @@
 # jemdoc: menu{MENU}{member.html}
 # jemdoc: addcss{css/jemdoc.css}
 # jemdoc: addcss{css/myExtra.css}
-# jemdoc: title{TC-SDM}
+# jemdoc: title{TC-CN}
 
 # ==== header
 #include{header.jemdoc}
 
 = TC Chair
-#{{{
 \<table id=noborder\>
 \<tr\>
 \<td width=\"50\%\"\>
-# ==== Prof. S. Hu
+# ====== Prof. Shiyan Hu
 ~~~
 {}{img_left}{img/committee/committee-syhu.jpg}{}{120}{}{}
 
-=== [http://personal.southampton.ac.uk/sh2e19/ Shiyan Hu]
-School of Electronics and Computer Science \n
-University of Southampton \n
-United Kingdom  \n
-#==== [http://personal.southampton.ac.uk/sh2e19/ Homepage]
+=== Shiyan Hu
+Member, European Academy of Sciences and Arts \n
 ~~~
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
+
 \<\/td\>
 \<\/tr\>
 \<\/table\>
 #}}}
 
-= Members
+= Senior Advisors
 #{{{
 \<table id=noborder\>
 \<tr\>
 \<td width=\"50\%\"\>
 
-# ====== Sasitharan Balasubramaniam
+# ====== R1C1
+# ====== Hiroshi Amano
 ~~~
-{}{img_left}{img/committee/committee-sbalasu.jpg}{}{120}{}{}
+{}{img_left}{img/committee/committee-hamano.jpg}{}{120}{}{}
 
-=== [https://tssg.org/staff/dr-sasitharan-balasubramaniam/ Sasitharan Balasubramaniam]
-Waterford Institute of Technology \n
-Ireland \n
-#==== [https://ece.duke.edu/faculty/yiran-chen Homepage]
+=== Hiroshi Amano
+Nobel Laureate \n
 ~~~
 
 \<\/td\>
 \<td width=\"50\%\"\>
-# ====== Arcangelo Castiglione
+# ====== R1C2
+# ====== Jamal Deen
 ~~~
-{}{img_left}{img/committee/committee-acas.jpeg}{}{120}{}{}
+{}{img_left}{img/committee/committee-jdeen.jpg}{}{120}{}{}
 
-=== [https://docenti.unisa.it/026260/home Arcangelo Castiglione] \n
-Department of Computer Science\n
-Università di Salerno \n
-Italy\n
-~~~
-
-
-\<\/td\>
-\<\/tr\>
-\<tr\>
-\<td\>
-
-# ====== Yiran Chen
-~~~
-{}{img_left}{img/committee/committee-ychen.jpg}{}{120}{}{}
-
-=== [https://ece.duke.edu/faculty/yiran-chen Yiran Chen], *FIEEE*
-*Editor-in-Chief of [https://ieee-cas.org/publications/circuits-and-systems-magazine Circuits and Systems Magazine]* \n
-Duke University \n
-USA \n
-#==== [https://ece.duke.edu/faculty/yiran-chen Homepage]
-~~~
-
-\<\/td\>
-\<td\>
-# ==== Prof. Jiang Hu
-~~~
-{}{img_left}{img/committee/committee-jhu.jpg}{}{120}{}{}
-
-=== [https://cesg.tamu.edu/faculty/jiang-hu/ Jiang Hu], *FIEEE*
-#Computer Engineering \n
-Electrical and Computer Engineering \n
-Texas A&M University \n
-USA \n
-#==== [http://cesg.tamu.edu/faculty/jiang-hu/ Homepage]
-~~~
-
-\<\/td\>
-\<\/tr\>
-\<tr\>
-\<td\>
-# ==== Prof. Stamatis Karnouskos
-~~~
-{}{img_left}{img/committee/committee-stamatis.jpg}{}{120}{}{}
-=== [https://www.linkedin.com/in/karnouskos/ Stamatis Karnouskos]
-SAP \n
-Germany \n
-~~~
-
-\<\/td\>
-\<td\>
-# ==== Prof. Jose Martinez Lastra
-~~~
-{}{img_left}{img/committee/committee-jose-lastra.jpg}{}{120}{}{}
-=== [https://www.tuni.fi/en/jose-martinezlastra Jose Martinez Lastra]
-Engineering and Natural Sciences \n
-Tampere University \n
-Finland \n
+=== Jamal Deen
+Former President of Academy of Sciences, \n
+Royal Society of Canada \n
 ~~~
 
 
@@ -113,201 +60,43 @@ Finland \n
 \<\/tr\>
 \<tr\>
 \<td\>
-# ==== Prof. X. Li
-~~~
-{}{img_left}{img/committee/committee-xli.jpg}{}{120}{}{}
-=== [http://ece.duke.edu/faculty/xin-li Xin Li], *FIEEE*
-*Deputy Editor-in-Chief of [https://ieee-ceda.org/publication/tcad-publication IEEE Transactions on Computer Aided Design]* \n
-Duke University \n
-USA \n
-#==== [http://ece.duke.edu/faculty/xin-li Homepage]
-~~~
 
-
-\<\/td\>
-\<td\>
-# ==== Francesco Piccialli
+# ====== R2C1
+# ====== Jan Mattsson
 ~~~
-{}{img_left}{img/committee/committee-frances.jpg}{}{120}{}{}
+{}{img_left}{img/committee/committee-jmattsson.jpg}{}{120}{}{}
 
-=== [https://www.docenti.unina.it/francesco.piccialli Francesco Piccialli] \n
-Computer Science \n
-University of Naples Federico II \n
-Italy\n
+=== Jan Mattsson \n
+Former Under-Secretary-General of the United Nations
 ~~~
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
-\<td\>
-# ==== Rajiv Ranjan
-~~~
-{}{img_left}{img/committee/committee-rajiv.jpg}{}{120}{}{}
-
-=== [https://rajivranjan.net/ Rajiv Ranjan] \n
-School of Computing  \n
-Newcastle University \n
-United Kingdom \n
-~~~
-
-
-\<\/td\>
-\<td\>
-# ====== Prof. Subham Sahoo
-~~~
-{}{img_left}{img/committee/committee-subham.jpg}{}{120}{}{}
-=== [https://vbn.aau.dk/en/persons/subham-sahoo Subham Sahoo]
-#*Web Chair* \n
-Aalborg University \n
-Denmark\n
-~~~
-
-\<\/td\>
-\<\/tr\>
-\<tr\>
-\<td\>
-# ==== Prof. Ye Sun
-~~~
-{}{img_left}{img/committee/committee-ysun.jpg}{}{120}{}{}
-
-=== [https://www.mtu.edu/mechanical/people/faculty/sun/ Ye Sun]
-#Computer Engineering \n
-Mechanical Engineering—Engineering Mechanics \n
-Michigan Technological University\n
-USA \n
-#==== [https://www.mtu.edu/mechanical/people/faculty/sun/ Homepage]
-~~~
-
-\<\/td\>
-\<td\>
-# ==== Prof. Zahir Tari
-~~~
-{}{img_left}{img/committee/committee-zahir.jpg}{}{120}{}{}
-
-=== [https://www.rmit.edu.au/contact/staff-contacts/academic-staff/t/tari-professor-zahir Zahir Tari]
-#Computer Engineering \n
-Computing and IT \n
-RMIT University \n
-Australia \n
-~~~
-
-
-\<\/td\>
-\<\/tr\>
-\<tr\>
-\<td\>
-# ==== Prof. Yanzhi Wang
-~~~
-{}{img_left}{img/committee/committee-yzwang.jpg}{}{120}{}{}
-
-=== [https://web.northeastern.edu/yanzhiwang/ Yanzhi Wang]
-#Computer Engineering \n
-Electrical and Computer Engineering \n
-Northeastern University\n
-USA \n
-~~~
-
-\<\/td\>
-\<td\>
-# ==== Prof. Qiang Yang
-~~~
-{}{img_left}{img/committee/committee-qyang.jpg}{}{120}{}{}
-
-=== [https://person.zju.edu.cn/en/qyang Qiang Yang]
-#Computer Engineering \n
-Electrical Engineering \n
-Zhejiang University\n
-China \n
-~~~
-
-\<\/td\>
-\<\/tr\>
-\<tr\>
-\<td\>
-# ====== Prof. B. Yu
-~~~
-{}{img_left}{img/committee/committee-byu.jpg}{}{120}{}{}
-=== [http://www.cse.cuhk.edu.hk/~byu/ Bei Yu]
-#*Web Chair* \n
-Computer Science and Engineering \n
-Chinese University of Hong Kong \n
-Hong Kong SAR\n
-#==== [http://www.cse.cuhk.edu.hk/~byu/ Homepage]
-~~~
-
-\<\/td\>
-\<td\>
-# ==== Prof. Bo Yuan
-~~~
-{}{img_left}{img/committee/committee-byuan.jpg}{}{120}{}{}
-
-=== [https://www.ece.rutgers.edu/bo-yuan Bo Yuan]
-#Computer Engineering \n
-Electrical and Computer Engineering \n
-Rutgers University\n
-USA \n
-~~~
-
-\<\/td\>
-\<\/tr\>
-\<tr\>
-\<td\>
-# ==== Prof. Q. Zhu
-~~~
-{}{img_left}{img/committee/committee-qzhu.jpg}{}{120}{}{}
-=== [http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html Qi Zhu]
-#*CPS Software Subcommittee Chair* \n
-Electrical Engineering and Computer Science \n
-Northwestern University \n
-USA \n
-#==== [http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html Homepage]
-~~~
-
-#}}}
-
-= Young Professional Members
-
-\<\/td\>
-\<\/tr\>
-\<tr\>
 \<td width=\"50\%\"\>
-# === Keke Huang
+# ====== R2C2
+# ====== Brian P. Schmidt
 ~~~
-{}{img_left}{img/committee/committee-kkhuang.jpg}{}{120}{}{}
+{}{img_left}{img/committee/committee-bschmidt.jpg}{}{120}{}{}
 
-=== [http://faculty.csu.edu.cn/huangkeke/en/index.htm Keke Huang]
-Department of Automation \n
-Central South University \n
-China \n
+=== Brian P. Schmidt \n
+Nobel Laureate \n
 ~~~
-
-\<\/td\>
-\<td\>
-# ==== Yuzhe Ma
-~~~
-{}{img_left}{img/committee/committee-yzma.jpg}{}{120}{}{}
-
-=== [https://yuzhe630.github.io Yuzhe Ma]
-#Computer Engineering \n
-Huawei Hong Kong Research Center \n
-Hong Kong SAR \n
-#==== [https://yuzhe630.github.io Homepage]
-~~~
-
 \<\/td\>
 \<\/tr\>
 \<tr\>
 \<td\>
-# ==== Junlong Zhou
-~~~
-{}{img_left}{img/committee/committee-jlzhou.jpg}{}{120}{}{}
 
-=== [https://www.junlongzhou.site/ Junlong Zhou]
-#Computer Engineering \n
-Computer Science and Engineering \n
-Nanjing University of Science and Technology \n
-China \n
+# ====== R3C1
+# ====== Richard A. Williams
 ~~~
+{}{img_left}{img/committee/committee-rwilliams.jpg}{}{120}{}{}
+
+=== Richard A. Williams \n
+Former Senior Vice President of UK Royal Academy of Engineering
+~~~
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 
 \<\/td\>
 \<\/tr\>

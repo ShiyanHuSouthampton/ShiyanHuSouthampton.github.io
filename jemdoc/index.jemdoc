@@ -1,26 +1,28 @@
 # jemdoc: menu{MENU}{index.html}
 # jemdoc: addcss{css/jemdoc.css}
 # jemdoc: addcss{css/myExtra.css}
-# jemdoc: title{TC-SDM}
+# jemdoc: title{TC-CN}
 
 
 # ==== header
-###include{header.jemdoc}
+#include{header.jemdoc}
 
 
-= IEEE Technical Committee on Secure and Dependable Measurement (SDM)
+= IEEE Technical Committee on Carbon Neutrality (CN)
 
 === Scope 
 
-The IEEE Technical Committee on Secure and Dependable Measurement aims at promoting interdisciplinary research and education in the field of secure and dependable measurement (SDM), which addresses security, dependability, reliability, fault tolerance, flexibility and extensibility of advanced measurement and sensing systems. The goals of this Technical Committee include
+Carbon neutrality refers to the perfect balance between carbon emission and carbon absorption. This can be accomplished by eliminating carbon emissions from society and carbon offsetting which absorbs more carbon than emission. Through achieving carbon neutrality, carbon dioxide output will have a net zero impact on the environment, which requires collaborative efforts from many industries and societies worldwide such as energy production, transportation, agriculture, etc. 
 
-- Develop, promote and support research and education in the area of secure and dependable measurement;
+IEEE Technical Committee (TC) on Carbon Neutrality aims to tackle the technical challenges associated with this worldwide initiative. We will bring together perspectives and approaches from academia and industry in carbon neutrality, and investigate active research, strategies, and entrepreneurship to further promote the development for achieving carbon neutrality. The goals of this Technical Committee include
 
-- Develop and evaluate security oriented testing, measurement and instrumentation methodologies;
+- Develop, promote and support research and education related to carbon neutrality;
 
-- Promote big data analytics and learning techniques for security oriented measurement;
+- Develop and evaluate strategies and methodologies related to carbon neutrality;
 
-- Develop security and big data related measurement standards and promote them to user, industrial, and government communities;
+- Promote engineering, data analytics, and artifical intelligence techniques for carbon neutrality;
+
+- Develop carbon neutrality related international standards and promote them to user, industrial, and government communities;
 
 - Maintain liaison with other societies, technical committees, and international organizations working in the related areas
 
